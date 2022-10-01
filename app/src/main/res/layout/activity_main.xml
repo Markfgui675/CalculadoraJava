@@ -103,7 +103,7 @@
 
     <TextView
         android:id="@+id/txtResp"
-        android:layout_width="174dp"
+        android:layout_width="194dp"
         android:layout_height="53dp"
         android:text=""
         android:textAlignment="center"
